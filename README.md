@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kernelbits/kernelbits/main/1.png" width="200" height="200">
+<img src="https://raw.githubusercontent.com/kernelbits/kernelbits/main/1.png">
 
 # John Doe
 👋 Hi there! I'm a passionate developer...
