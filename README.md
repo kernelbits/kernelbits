@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/kernelbits/kernelbits/main/1.png">
 
-# 👋 Hi, I'm kernelbits
+# 👋 Hi, I'm Hamed Mani
 
 I'm a computer science student who loves building things and learning by doing.  
 I work across Python, usually mixing AI, games, and backend concepts.
