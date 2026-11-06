@@ -169,47 +169,27 @@ Upload a PDF and ask questions about it. Runs fully locally, so documents never 
 
 </details>
 
-<br/>
-
-<details>
-<summary><b>VDSL / ADSL Quality Validation Tool — Tunisie Telecom Internship</b></summary>
-
-<br/>
-
-An internal software tool created to assist testing and validation of network quality metrics.
-
-| Category | Details |
-|---|---|
-| Stack | Java |
-| Scale | Internal enterprise utility |
-| Performance | Automated validation workflows |
-| Security | Internal company environment |
-| Impact | Improved testing and validation processes |
-
-</details>
-
 ---
 
 # 💼 Experience
 
-## Full Stack Web Development Intern
+## Software Development Intern
 
 ### Tunisie Telecom
 
 **July 2026**
 
-Developed an internal tool for testing and validating VDSL and ADSL network quality.
+Internship in the IT department of Tunisia's national telecom operator.
 
 ### Responsibilities
 
-- Designed and implemented software features
-- Developed validation workflows
-- Improved internal testing processes
-- Worked with enterprise development practices
+- Developed internal software features in Java
+- Worked with network configuration and troubleshooting in an enterprise environment
+- Followed enterprise development and testing practices
 
 **Skills**
 
-`Java` `Software Development` `Testing` `Enterprise Applications`
+`Java` `Software Development` `Testing` `Networking`
 
 ---
 
